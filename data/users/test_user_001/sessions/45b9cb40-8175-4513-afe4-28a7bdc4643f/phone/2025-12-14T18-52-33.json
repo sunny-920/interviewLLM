@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "content": "您好，Sunny。這裡是 JAYDEN，我是這次面試的電訪面試官，確認您現在方便通話嗎？"
+  },
+  {
+    "role": "user",
+    "content": "可以結束對話嗎"
+  },
+  {
+    "role": "assistant",
+    "content": "當然可以。感謝您今天的時間，Sunny。後續有任何更新，我們會及時通知您。祝您一切順利！再見。"
+  }
+]
